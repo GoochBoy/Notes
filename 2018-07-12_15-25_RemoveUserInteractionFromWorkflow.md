@@ -1,17 +1,13 @@
 ---
 tags:
   - CODE
+  - TODO
+  - REFAC
 ---
+    -Refaire une branche avec mon code de kompano-577 (2 branches) pour prochain refac
+    -Validation du nouveau Epc scanner??
 
-    RequiresNewParentMaybe
-        UnpackWorkflow
-            GetParent from container
-                _containerValidationService.ValidateContainer(newParent, remainingChildren)
-        UnpackNonDestructiveWorkflow??
-        RecursiveWorkflowBase
-        MarkAsShippedWorkflow
-    RequiresNewTagForSure
-        ReplaceTagWorkflow
-            c'est certain qu'il faut le passer
-    RequiresNewContainerForSure
-        Pack
+    -Add tests to Operations
+        -Cancel Operation after new scan was displayed    
+
+    -Modifier Mark à Shipped pour qu'il valide que c'est same parent
