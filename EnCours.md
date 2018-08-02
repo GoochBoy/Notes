@@ -6,12 +6,21 @@ tags:
 ---
 
 TODO :
+  -Chercher sur comment faire des callback avec un api REST
+  -mail Sven
+    -why is undo not an url sent back to caller that would be valid the amount of time the NMVS has specified (10 days)
+  -ménage mes Notes
+  -K-Server : définitions besoin et todos
+    -branch avec un esquisse
+  -GOVA : définitions besoin et todos
+  -GI-Bulk interface
+  -bonifier story de Mathieu
   -connect to NMVS Irland
   -Connect to NMVS UK
+  -branch avec code legacy 577
   -Test GI
     -uk
     -ie
-  -Code review / merge
   -Notes dans mon cahier
   -Dev Python dans VS code
   -Sync vs code
