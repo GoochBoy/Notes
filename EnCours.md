@@ -6,10 +6,14 @@ tags:
 ---
 
 TODO :
+  -GOVA preuve concept
+  -K-SERVER preuve concept
+  -GI
   -Chercher sur comment faire des callback avec un api REST
   -mail Sven
     -why is undo not an url sent back to caller that would be valid the amount of time the NMVS has specified (10 days)
-  -ménage mes Notes
+  -ména
+  -API GI
   -K-Server : définitions besoin et todos
     -branch avec un esquisse
   -GOVA : définitions besoin et todos
